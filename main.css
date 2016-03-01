@@ -1,0 +1,34 @@
+body {
+	background: #ccc;
+	text-align: center;
+	font-family: arial;
+
+}
+
+h3 {
+	margin: 30px;
+	margin-top: 50px;
+	color: purple;
+	letter-spacing: 1px;
+
+}
+
+
+#calculateBtn {
+	background-color: #ff2 ;
+	border-radius: 20px;
+}
+
+#answer {
+	font-size: large;
+}
+
+#num_one {
+	padding: 2px;
+	border: 2px solid black;
+}
+
+#num_two {
+	padding: 2px;
+	border: 2px solid black;
+}
